@@ -32,3 +32,13 @@ C:\Users\Joao\source\repos\SnakeSpaceBattle\obj\Debug\net7.0\SnakeSpaceBattle.pd
 C:\Users\Joao\source\repos\SnakeSpaceBattle\obj\Debug\net7.0\SnakeSpaceBattle.genruntimeconfig.cache
 C:\Users\Joao\source\repos\SnakeSpaceBattle\obj\Debug\net7.0\ref\SnakeSpaceBattle.dll
 C:\Users\Joao\source\repos\SnakeSpaceBattle\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Joao\source\repos\SnakeSpaceBattle\bin\Debug\net7.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Joao\source\repos\SnakeSpaceBattle\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\Joao\source\repos\SnakeSpaceBattle\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\Joao\source\repos\SnakeSpaceBattle\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\Joao\source\repos\SnakeSpaceBattle\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\Joao\source\repos\SnakeSpaceBattle\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\Joao\source\repos\SnakeSpaceBattle\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\Joao\source\repos\SnakeSpaceBattle\bin\Debug\net7.0\Microsoft.Extensions.Features.dll
+C:\Users\Joao\source\repos\SnakeSpaceBattle\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Joao\source\repos\SnakeSpaceBattle\bin\Debug\net7.0\Microsoft.Extensions.Options.dll

@@ -10,7 +10,7 @@ namespace SnakeSpaceBattle
         {
             
 
-            services.AddSingleton<ISnakeService, SnakeService>();
+            services.AddSingleton<IGameService, GameService>();
 
         }
     }

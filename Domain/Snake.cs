@@ -4,7 +4,7 @@ namespace SnakeSpaceBattle.Domain
 {
     public class Snake
     {
-        public Guid Id { get; set; } 
+        public string Id { get; set; } 
          public string name { get; set; }
 
          public Coordinate Coordinate { get; set; }
